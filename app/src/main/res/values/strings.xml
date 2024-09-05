@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Motivacao</string>
+    <string name="hello">Olá, Lucas!</string>
+    <string name="pharse">FRASE MOTIVACIONAL</string>
+    <string name="button_name">Nova Frase</string>
+    <string name="lets_begin">Vamos começar?</string>
+    <string name="your_name">Qual seu nome?</string>
+
+    <!-- Acessibilidade - Descrição das imagens -->
+    <string name="desc_first_button">Primeiro botão</string>
+    <string name="desc_second_button">Segundo botão</string>
+    <string name="desc_third_button">Terceiro botão</string>
+    <string name="button_save">Salvar</string>
+
+    <string name="validate_mandatory_name">Informe um nome válido!</string>
+</resources>
